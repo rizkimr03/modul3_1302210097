@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\bin\Debug\net6.0-windows\Modul3_1302210097.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\bin\Debug\net6.0-windows\Modul3_1302210097.deps.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\bin\Debug\net6.0-windows\Modul3_1302210097.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\bin\Debug\net6.0-windows\Modul3_1302210097.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\bin\Debug\net6.0-windows\Modul3_1302210097.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.Form1.resources
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\refint\Modul3_1302210097.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\Modul3_1302210097.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul3_1302210097\Modul3_1302210097\Modul3_1302210097\obj\Debug\net6.0-windows\ref\Modul3_1302210097.dll
